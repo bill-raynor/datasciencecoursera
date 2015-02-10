@@ -12,3 +12,9 @@ in project directory
 `> git remote add origin https://github.com/bill-raynor/datasciencecoursera.git`
 or more generally
 `>git remote add origin https://github.com/<user-name>/<reponame>.git`
+
+to push
+`>git push --set-upstream origin master` initially
+then
+`>git push`
+
